@@ -1,0 +1,32 @@
+{
+  "name": "html5-boost-template",
+  "version": "0.1.0",
+  "description": "html5-boost-template is an initial HTML5 template that provides the necessary structure for highly scalable and maintainable applications",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jesusignaciob/html5-boost-template.git"
+  },
+  "keywords": [
+    "html5",
+    "template",
+    "boost"
+  ],
+  "author": "Jesus Becerra",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/jesusignaciob/html5-boost-template/issues"
+  },
+  "homepage": "https://github.com/jesusignaciob/html5-boost-template",
+  "dependencies": {
+    "bower": "^1.3.11",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13"
+  }
+}
